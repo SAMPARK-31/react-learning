@@ -31,6 +31,6 @@ const  anotherElement = (
 )
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <MYapp/>
+ <App/>
   
 )
